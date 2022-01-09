@@ -2,6 +2,11 @@ html {
     background-color: lemonchiffon;
 }
 
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
 header {
     background-color: #fff599;
     color: green;
