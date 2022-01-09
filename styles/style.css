@@ -1,0 +1,19 @@
+html {
+    background-color: lemonchiffon;
+}
+
+header {
+    background-color: #fff599;
+    color: green;
+    padding: 1em;
+}
+
+footer {
+    border-width: 3px;
+    border-top-style: solid;
+    border-color: black;
+}
+
+footer p {
+    font-size: 15px;
+}
