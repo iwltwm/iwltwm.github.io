@@ -1,2 +1,2 @@
 # ignore vim's buckup file
-*.un~
+*~
